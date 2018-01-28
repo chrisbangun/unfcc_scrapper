@@ -12,7 +12,7 @@ pip install bs4
 
 ### Usage
 ----------
-There are two main scripts:
+There are two main scripts and both need to be run from the root directory:
 ```
 scrapper.py --> download the pdd files given:
             - list of unfcc_id specified in unfcc_ids_config.ini
